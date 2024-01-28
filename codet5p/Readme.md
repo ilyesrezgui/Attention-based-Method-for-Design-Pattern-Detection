@@ -1,7 +1,4 @@
----
-license: bsd-3-clause
----
-
+# We haven't added the pytorch_model.bin yet in this repo.
 # CodeT5+ 110M Embedding Models
 
 ## Model description
