@@ -1,0 +1,44 @@
+{
+  "_name_or_path": "Salesforce/codet5p-110m-embedding",
+  "architectures": [
+    "CodeT5p_Embedding"
+  ],
+  "auto_map": {
+    "AutoConfig": "configuration_codet5p_embedding.CodeT5pEmbeddingConfig",
+    "AutoModel": "modeling_codet5p_embedding.CodeT5pEmbeddingModel"
+  },
+  "bos_token_id": 1,
+  "d_ff": 3072,
+  "d_kv": 64,
+  "d_model": 768,
+  "embed_dim": 256,
+  "decoder_start_token_id": 0,
+  "dense_act_fn": "relu",
+  "dropout_rate": 0.1,
+  "eos_token_id": 2,
+  "feed_forward_proj": "relu",
+  "gradient_checkpointing": false,
+  "id2label": {
+    "0": "LABEL_0"
+  },
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "is_gated_act": false,
+  "label2id": {
+    "LABEL_0": 0
+  },
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "codet5p_embedding",
+  "n_positions": 512,
+  "num_heads": 12,
+  "num_layers": 12,
+  "output_past": true,
+  "pad_token_id": 0,
+  "relative_attention_max_distance": 128,
+  "relative_attention_num_buckets": 32,
+
+  "torch_dtype": "float32",
+  "transformers_version": "4.21.3",
+  "use_cache": true,
+  "vocab_size": 32103
+}
