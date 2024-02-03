@@ -16,7 +16,7 @@ This repository implements our paper <b>Attention-based Method for Design Patter
 * Run_Computation_DPD.py : This file claculates the FLOPs
 * complexity_DPD_Att.csv : This file contains the variations of FLOPs of the encoder on the DPD_Att_Classifier.csv dataset.
 * cross valid : This script performs corss validation and experiments with differnt K values.
-![Approach](Figures/K-Values.png)
+![Approach](Figures/Evaluation-kfolds.png)
 * datasetcreator.py : This script is responsible on creating the DPD_Att_Classifier.csv file, which represents the dataset passed to the classifier.
 * embeddings.py : This script is used to communicate with encoder model. It contains two methods. One that calulcates the number of tokens in a given Java class. and another function that extracts features from a given Java class.
 * model_t5p_300_Run.ipynb : This is the training and testing of the classifier on DPD_Att_Classifier.csv with embedding size equal to 300
