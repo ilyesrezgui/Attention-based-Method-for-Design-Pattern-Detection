@@ -1,7 +1,7 @@
 # Attention Based Method For Design Pattern Detection
 
 This repository implements our paper <b>Attention-based Method for Design Pattern Detection</b>
-![Approach]([image_url](https://github.com/ilyesrezgui/Attention-based-Method-for-Design-Pattern-Detection/blob/main/approachDPD.png))
+![Approach]([https://github.com/ilyesrezgui/Attention-based-Method-for-Design-Pattern-Detection/blob/main/approachDPD.png])
 
 * DPD_Att.rar : Represents the Java code that was used to create the dataset.
 * DPD_Att_Classifier.csv : This is th data bassed to the classifier.
