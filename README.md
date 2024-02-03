@@ -16,4 +16,5 @@ This repository implements our paper <b>Attention-based Method for Design Patter
 * codet5p : Contains encoder that we used for the feature extraction process.
 
 
-### This apporach is evaluated using four different statistical metrics, plus compared to state-of-the-art.
+### This apporach is evaluated using four different statistical metrics (Precision, Recall, Harmonic-mean, Accuracy). 
+FLOPs are also calculated on the DPD_Att dataset.
