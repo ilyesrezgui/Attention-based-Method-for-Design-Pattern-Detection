@@ -10,7 +10,9 @@ This repository implements our paper <b>Attention-based Method for Design Patter
 * DPD_Att_Classifier.csv : This is th data bassed to the classifier.
 * DPD_F.csv : Contains the list of available files in the DPD_F dataset.
 * DPD_F_Comparison.csv : This file contains embedding of files that (Patterns) that are covered by the DPD_F dataset.
-* FLOPs_in_Figs_DPD_Att.ipynb: This file vizualizes FLOPs 
+* FLOPs_in_Figs_DPD_Att.ipynb: This file vizualizes FLOPs
+  Here's the variation of the number of floating point operations required by the model to compute the embedding vectors.
+![Approach](Figures/output.png)
 * Run_Computation_DPD.py : This file claculates the FLOPs
 * complexity_DPD_Att.csv : This file contains the variations of FLOPs of the encoder on the DPD_Att_Classifier.csv dataset.
 * cross valid : This script performs corss validation and experiments with differnt K values.
