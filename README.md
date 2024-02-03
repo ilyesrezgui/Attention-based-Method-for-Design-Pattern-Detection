@@ -14,3 +14,6 @@ This repository implements our paper <b>Attention-based Method for Design Patter
 * model_t5p_300_Run.ipynb : This is the training and testing of the classifier on DPD_Att_Classifier.csv with embedding size equal to 300
 * model_t5p_compare.ipynb : Comparision with state-of-the-art.
 * codet5p : Contains encoder that we used for the feature extraction process.
+
+
+# This apporach is evaluated using four different statistical metrics, plus compared to state-of-the-art.
