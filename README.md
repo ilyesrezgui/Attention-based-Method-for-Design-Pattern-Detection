@@ -4,6 +4,9 @@ This repository implements our paper <b>Attention-based Method for Design Patter
 ![Approach](Figures/approachDPD.png)
 
 * DPD_Att.rar : Represents the Java code that was used to create the dataset.
+  Here's a representation of the data we have collected with respect to the dataset DPD_F provided by state-of-the-art.
+![Approach](Figures/data_p.png)
+  
 * DPD_Att_Classifier.csv : This is th data bassed to the classifier.
 * DPD_F.csv : Contains the list of available files in the DPD_F dataset.
 * DPD_F_Comparison.csv : This file contains embedding of files that (Patterns) that are covered by the DPD_F dataset.
