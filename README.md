@@ -25,4 +25,3 @@ This repository implements our paper <b>Attention-based Method for Design Patter
 
 
 ### This approach is evaluated using four different statistical metrics (Precision, Recall, Harmonic-mean, Accuracy). 
-FLOPs are also calculated on the DPD_Att dataset.
