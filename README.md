@@ -1,5 +1,9 @@
 # Attention Based Method For Design Pattern Detection
 
+GoF design patterns are a set of recurring solutions to common software design problems in object-oriented programming. These patterns were first introduced in the book "Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, often referred to as the Gang of Four. The book categorizes these patterns into three main types: creational, structural, and behavioral. Creational patterns focus on object creation mechanisms, helping to create objects in a manner suitable to the situation. Structural patterns deal with the composition of classes or objects to form larger structures. Behavioral patterns focus on communication between objects, defining how objects interact and fulfill a given task. Each pattern addresses a specific design challenge in a reusable and flexible way, promoting code reusability, maintainability, and scalability in software development
+
+
+
 This repository implements our paper <b>Attention-based Method for Design Pattern Detection</b>
 ![Approach](Figures/approachDPD.png)
 
