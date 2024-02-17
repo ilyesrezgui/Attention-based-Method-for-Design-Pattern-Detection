@@ -1,9 +1,8 @@
 
 
-# CodeT5+ 110M Embedding Models
+# CodeT5+ 110M Encoder
 
 ## Model description
-
 [CodeT5+](https://github.com/salesforce/CodeT5/tree/main/CodeT5+) is a new family of open code large language models
 with an encoder-decoder architecture that can flexibly operate in different modes (i.e. _encoder-only_, _decoder-only_,
 and _encoder-decoder_) to support a wide range of code understanding and generation tasks.
