@@ -91,12 +91,6 @@ This checkpoint is first trained on the unimodal code data at the first-stage pr
 pair data using the proposed mixture of pretraining tasks.
 Please refer to the paper for more details.
 
-## Evaluation results
-
-We show the zero-shot results of this checkpoint on 6 downstream code retrieval tasks from CodeXGLUE in the following table.
-| Ruby  | JavaScript | Go    | Python | Java  | PHP   | Overall |
-| ----- | ---------- | ----- | ------ | ----- | ----- | ------- |
-| 74.51 | 69.07      | 90.69 | 71.55  | 71.82 | 67.72 | 74.23   |
 
 ## BibTeX entry and citation info
 
