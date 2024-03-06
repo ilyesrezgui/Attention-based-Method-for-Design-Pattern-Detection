@@ -40,6 +40,5 @@ If you use this project in your research work or publication, please cite it usi
   author = {Ilyes REZGUI, Rania MZID},
   title = {Attention Based Method For Design Pattern Detection},
   year = {2024},
-  howpublished = {GitHub repository},
   url = {https://github.com/ilyesrezgui/Attention-based-Method-for-Design-Pattern-Detection},
 }
