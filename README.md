@@ -29,3 +29,17 @@ This repository implements our paper <b>Attention-based Method for Design Patter
 
 
 ### This approach is evaluated using four different statistical metrics (Precision, Recall, Harmonic-mean, Accuracy). 
+
+
+# Citation
+
+If you use this project in your research work or publication, please cite it using the following BibTeX entry:
+
+```bibtex
+@misc{DP_Att,
+  author = {Ilyes REZGUI, Rania MZID},
+  title = {Attention Based Method For Design Pattern Detection},
+  year = {2024},
+  howpublished = {GitHub repository},
+  url = {https://github.com/ilyesrezgui/Attention-based-Method-for-Design-Pattern-Detection},
+}
